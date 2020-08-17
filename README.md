@@ -1,6 +1,6 @@
 # My Vanilla JS homepage
 
-[website link placeholder]()
+[Click here](https://karmek-k.netlify.app/)
 
 ## Building & running
 
